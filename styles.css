@@ -1,0 +1,55 @@
+header{
+    background-color: rgb(53, 157, 241);
+    color: white;
+    font-size: 21px;
+    text-align: center;
+    padding: 5px;
+}
+body{
+    background-color: rgb(207, 203, 203);
+}
+
+form{
+    flex-direction: row;
+    display: inline;
+    display: flex;
+    
+}
+input{
+    color: black;
+    width: 300px;
+    justify-content: space-around;
+    padding: 10px;
+    
+}
+button{
+    border-radius: 5px;
+    padding: 10px 20px;
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    color: white;
+    justify-content: space-around;
+    background-color:red;
+    margin-left: 10px;
+    text-decoration: none;
+    
+}
+
+.herolist{
+    font-size: 24px;
+    font-weight: bold;
+    color: black;
+}
+
+.alias{
+    font-size: 18px;
+    font-weight: bold;
+    color: black;
+}
+
+.biography{
+    font-size: 14px;
+    color: black;
+    font-weight: none;
+}
